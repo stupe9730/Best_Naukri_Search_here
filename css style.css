@@ -1,0 +1,62 @@
+.bg-image {
+    background-image: url(./images/banner-bg.png);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
+
+.best {
+    font-size: 4.5vw;
+    padding: 10vh 0 8vh;
+}
+
+.radias {
+    height: 9vh;
+    width: 10vw;
+    border: 0;
+    border-radius: 1.2rem;
+}
+
+.radias::placeholder {
+    padding-left: 2vw;
+    font-size: 1.2rem;
+    border: 0;
+}
+
+.radias input {}
+
+.center1 {
+    margin: auto;
+}
+
+.hover {
+    background-color: black;
+    color: white;
+    padding: 1rem 1.2rem;
+    border: 0rem;
+    margin-top: 2rem;
+}
+
+.hover:hover {
+    background-color: white;
+    color: black;
+}
+
+.hover1 a {
+    color: black;
+}
+
+.hover1 a:hover {
+    color: rgb(2, 158, 255);
+}
+
+.btn1 {
+    color: white;
+    background: black;
+    border: 0;
+}
+
+.btn1:hover {
+    color: black;
+    background: rgb(8, 210, 241);
+}
